@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akhilesh-Aryan
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on Laravek
+- 💞️ I’m looking to collaborate on Laravel
 - 📫 How to reach me akhilesharyan977135@gmail.com
 
 <!---
